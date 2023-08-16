@@ -48,4 +48,7 @@ For the model building process, two regression algorithms were implemented:
 ## Flask Application for Model Deployment
 To provide easy access to the trained model's predictions, a Flask application was developed. The web interface allows users to input relevant parameters and receive accurate bike count predictions in real-time. This integration of regression analysis, model deployment, and user interaction empowers rental bike providers to make informed decisions and optimize resource management effectively.
 
+![image](https://github.com/mohd-arham-islam/Bike-Share/assets/111959286/20497980-1131-450f-97aa-4d776ea54e80)
+
+
 By leveraging these insights, feature engineering techniques, and advanced regression models, this project offers a comprehensive solution for predicting bike rental demand, enhancing the overall user experience, and enabling more efficient resource allocation for rental bike providers.
